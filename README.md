@@ -4,6 +4,7 @@
 
 ## Projetos e exercícios para os cursos da Cubos Academy
 
+* **BACK END**
 
 - [x] Primeiro HelloWorld;
 - [x] Exercícios de **Variáveis**;
