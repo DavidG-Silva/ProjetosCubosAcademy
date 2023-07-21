@@ -9,4 +9,5 @@
 - [x] Primeiro HelloWorld;
 - [x] Exercícios de **Variáveis**;
 - [x] Exercícios de **Condicionais**;
+- [x] Exercícios de **Arrays e Loops**;
 
