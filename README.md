@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# ProjetosCubosAcademy
+# Projetos Cubos Academy
 
 ## Projetos e exercícios para os cursos da Cubos Academy
 
@@ -11,15 +11,15 @@
 - [x] Exercícios de **Condicionais**;
 - [x] Exercícios de **Arrays e Loops**;
 
- #### **HackerRank**
-
-- [x] Abecedario
-- [x] Brasil com P
-- [x] Brazilian Storm
-- [x] Carrossel
-- [x] Cinco ou mais, um é grátis
-- [x] Forca
-- [x] Perda mínima
-- [x] Pontos no Campeonato
-- [x] Purificacao
-- [x] Tiro ao Alvo
+***HackerRank***
+* **Arrays e Loops**
+    - Abecedario
+    - Brasil com P
+    - Brazilian Storm
+    - Carrossel
+    - Cinco ou mais, um é grátis
+    - Forca
+    - Perda mínima
+    - Pontos no Campeonato
+    - Purificacao
+    - Tiro ao Alvo
