@@ -13,7 +13,7 @@
 - [x] Exercícios de **Objetos**;
 - [x] Exercícios de **Funções**;
 - [x] Exercícios de **Métodos de Strings**;
-- [ ] Exercícios de **Métodos de Arrays**;
+- [x] Exercícios de **Métodos de Arrays**;
 
 
 ***HackerRank***
